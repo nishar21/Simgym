@@ -1,0 +1,15 @@
+Team Contribution Note
+
+Nishar Ahmad:
+  Worked on identifying and choosing the project problem statement through user review analysis
+  Helped in defining the product scope and understanding customer pain points in e-commerce platforms
+  Designed the user interface layout for the storefront and overall user experience flow
+  Contributed to frontend development of the Storefront component and product listing section
+  Supported UI testing and improvements for better usability and cleaner user interaction
+
+Bongu Kishorr:
+  Worked on the AI-Based Shopping Assistant Chatbot module
+  Implemented chatbot UI including message flow and suggestion buttons
+  Developed chatbot widgets for product recommendations, order tracking, returns, and cart summary
+  Integrated mock AI response system using simulateAIResponse() for chatbot interaction
+  Assisted in chatbot testing and response validation
